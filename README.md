@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aniamalicdan
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS, and JavaScript
 
 <!---
 aniamalicdan/aniamalicdan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
